@@ -1,0 +1,17 @@
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/obj/Debug/Assembly-CSharp.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/UnityEngine.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/UnityEditor.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Mono.Cecil.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/sakamotoyuki/Documents/UnityProject/BLOCKBLOCK_HD/Temp/bin/Debug/Mono.Cecil.Mdb.dll
